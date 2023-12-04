@@ -1,5 +1,5 @@
 # Mini Project - Weather App using HTML,CSS,JS
-![weather-images](https://user-images.githubusercontent.com/90236635/232291203-4d6bed99-30e5-4837-96b6-98bbbef053d3.png)
+![weather-images](https://pragativadi.com/wp-content/uploads/2022/07/SAVE_20220703_084840.jpg)
 
 ## About
  - This is a simple weather website.
